@@ -60,15 +60,15 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="154" 
-    style="padding-right: 4px;" 
+    height="160" 
+    style="padding-right: 2px;" 
     src="https://github-readme-stats.vercel.app/api?username=richard121M&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="154" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>

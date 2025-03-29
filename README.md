@@ -60,7 +60,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="164" 
+    height="154" 
     style="padding-right: 4px;" 
     src="https://github-readme-stats.vercel.app/api?username=richard121M&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
@@ -68,7 +68,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="164" 
+      height="154" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>

@@ -63,14 +63,28 @@
     height="175" 
     src="https://github-readme-stats.vercel.app/api?username=richard121M&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=donut-vertical&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=donut&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<!-- <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="175" 
+    src="https://github-readme-stats.vercel.app/api?username=richard121M&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="175" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=donut&custom_title=Tecnologias&langs_count=9" 
+  />
+</p> -->
 
 <!--
 **richard121M/richard121M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

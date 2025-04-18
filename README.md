@@ -67,7 +67,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="185" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=donut&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard121M&theme=radical&layout=donut&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 
